@@ -13,30 +13,30 @@ The simulation tool utilized in this analysis is a user-friendly application dev
 
 Analysis Steps:
 
-+Normal Respiratory Scenario: 
++ Normal Respiratory Scenario: 
 1. Simulate normal respiratory mechanics using the provided tool.
 2. Collect and report graphical representations of ventilation patterns and minute ventilation.
 
-+Restrictive Pulmonary Disease Scenario:
++ Restrictive Pulmonary Disease Scenario:
 1. Simulate respiratory mechanics with a selected restrictive pulmonary disease setting.
 2. Collect and report graphical representations illustrating ventilation patterns and minute ventilation.
 
-+Obstructive Pulmonary Disease Scenario:
++ Obstructive Pulmonary Disease Scenario:
 1. Simulate respiratory mechanics with a chosen obstructive pulmonary disease setting.
 2. Collect and report graphical representations showcasing ventilation patterns and minute ventilation.
 
-## Comparison and Discussion:
++ Comparison and Discussion:
 
 1. Compare minute ventilation values across different scenarios for the same ventilator settings.
 2. Discuss differences in ventilation patterns and minute ventilation among normal, restrictive, and obstructive conditions.
 
 ## Repository Contents:
 
-Screenshots: Include snapshots of the simulation tool interface and graphs generated for each scenario.(Attached in report)
-Code: If applicable, provide code files for configuring and running simulations.
-References: Include relevant research articles or resources consulted during the analysis.
-Documentation: Provide detailed explanations of simulation setup, analysis steps, and findings.
-Conclusion: Summarize insights gained from the analysis and their implications for understanding respiratory mechanics.
+- Screenshots: Include snapshots of the simulation tool interface and graphs generated for each scenario.(Attached in report)
+- Code: If applicable, provide code files for configuring and running simulations.
+- References: Include relevant research articles or resources consulted during the analysis.
+- Documentation: Provide detailed explanations of simulation setup, analysis steps, and findings.
+- Conclusion: Summarize insights gained from the analysis and their implications for understanding respiratory mechanics.
 
 Usage:
 
