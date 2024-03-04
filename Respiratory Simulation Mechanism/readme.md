@@ -1,4 +1,4 @@
-# Modeling of physiological systems. 
+# Respiratory Mechanism
 ## Repository Description:
 
 This repository presents an examination of respiratory mechanics simulations utilizing a tool developed by David Leonardo Rodriguez Sarmiento and Daniela Acevedo Guerrero in 2020. The simulation tool allows for the exploration of respiratory conditions in adults, encompassing normal, restrictive pulmonary disease, and obstructive pulmonary disease scenarios. Through graphical representations and minute ventilation comparisons, the simulator serves as a valuable resource for understanding the intricacies of respiratory mechanics.
